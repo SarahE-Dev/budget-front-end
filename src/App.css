@@ -1,0 +1,11 @@
+* {
+  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+ .my-modal .modal-content {
+    background-color: rgb(38, 37, 37);
+    color: white;
+ }
